@@ -10,6 +10,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = A521497112CCAE1E0001EB10 /* ProdutoA */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* ProdutoA */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ProdutoA */,
+		);
 		codeSenseManager = A521498312CCAE200001EB10 /* Code sense */;
 		executables = (
 			A521497112CCAE1E0001EB10 /* ProdutoA */,
