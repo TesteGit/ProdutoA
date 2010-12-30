@@ -109,4 +109,25 @@
 			sepNavVisRange = "{0, 216}";
 		};
 	};
+	A521498612CCB02D0001EB10 /* Reachability.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 333}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 196}";
+		};
+	};
+	A52149B912CCB4830001EB10 /* ControlEdicao.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 333}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 218}";
+		};
+	};
+	A52149BA12CCB4830001EB10 /* ControlEdicao.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 333}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRange = "{0, 212}";
+		};
+	};
 }
