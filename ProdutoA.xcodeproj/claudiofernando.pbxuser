@@ -88,4 +88,11 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	A521498512CCB02D0001EB10 /* Reachability.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 216}";
+		};
+	};
 }

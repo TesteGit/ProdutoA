@@ -18,6 +18,7 @@
 		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
 		28D3F202112F7DC200FD0661 /* ProdutoA.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28D3F201112F7DC200FD0661 /* ProdutoA.xcdatamodeld */; };
 		A521498712CCB02D0001EB10 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = A521498612CCB02D0001EB10 /* Reachability.m */; };
+		A521498C12CCB1680001EB10 /* ControllerBase.m in Sources */ = {isa = PBXBuildFile; fileRef = A521498B12CCB1680001EB10 /* ControllerBase.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		8D1107310486CEB800E47090 /* ProdutoA-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "ProdutoA-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 		A521498512CCB02D0001EB10 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		A521498612CCB02D0001EB10 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		A521498A12CCB1680001EB10 /* ControllerBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControllerBase.h; sourceTree = "<group>"; };
+		A521498B12CCB1680001EB10 /* ControllerBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControllerBase.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +87,8 @@
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				A521498512CCB02D0001EB10 /* Reachability.h */,
 				A521498612CCB02D0001EB10 /* Reachability.m */,
+				A521498A12CCB1680001EB10 /* ControllerBase.h */,
+				A521498B12CCB1680001EB10 /* ControllerBase.m */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -186,6 +191,7 @@
 				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
 				28D3F202112F7DC200FD0661 /* ProdutoA.xcdatamodeld in Sources */,
 				A521498712CCB02D0001EB10 /* Reachability.m in Sources */,
+				A521498C12CCB1680001EB10 /* ControllerBase.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
