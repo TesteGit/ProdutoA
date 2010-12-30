@@ -43,6 +43,7 @@
 		perUserProjectItems = {
 			D206BF9E12CCC6D000FE7887 /* PBXBookmark */ = D206BF9E12CCC6D000FE7887 /* PBXBookmark */;
 			D206BF9F12CCC6D000FE7887 /* PBXTextBookmark */ = D206BF9F12CCC6D000FE7887 /* PBXTextBookmark */;
+			D206BFA312CCC72200FE7887 /* PBXTextBookmark */ = D206BFA312CCC72200FE7887 /* PBXTextBookmark */;
 		};
 		sourceControlManager = D206BF5812CCAF6900FE7887 /* Source Control */;
 		userBuildSettings = {
@@ -51,8 +52,8 @@
 	A52149BA12CCB4830001EB10 /* ControlEdicao.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1559, 760}}";
-			sepNavSelRange = "{167, 0}";
-			sepNavVisRange = "{0, 207}";
+			sepNavSelRange = "{286, 0}";
+			sepNavVisRange = "{0, 286}";
 		};
 	};
 	D206BF4712CCAF6100FE7887 /* ProdutoA */ = {
@@ -108,6 +109,16 @@
 		rLoc = 167;
 		rType = 0;
 		vrLen = 207;
+		vrLoc = 0;
+	};
+	D206BFA312CCC72200FE7887 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A52149BA12CCB4830001EB10 /* ControlEdicao.m */;
+		name = "ControlEdicao.m: 19";
+		rLen = 0;
+		rLoc = 286;
+		rType = 0;
+		vrLen = 286;
 		vrLoc = 0;
 	};
 }
