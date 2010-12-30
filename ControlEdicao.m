@@ -8,7 +8,7 @@
 
 #import "ControlEdicao.h"
 
-//EDicaO
+//EDIcaO
 @implementation ControlEdicao
 
 @end

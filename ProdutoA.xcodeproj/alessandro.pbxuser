@@ -47,6 +47,9 @@
 			D206BFA412CCC81D00FE7887 /* PBXTextBookmark */ = D206BFA412CCC81D00FE7887 /* PBXTextBookmark */;
 			D206BFA512CCC81D00FE7887 /* PBXTextBookmark */ = D206BFA512CCC81D00FE7887 /* PBXTextBookmark */;
 			D206BFA612CCC81D00FE7887 /* PBXTextBookmark */ = D206BFA612CCC81D00FE7887 /* PBXTextBookmark */;
+			D206BFA712CCC8C000FE7887 /* PBXTextBookmark */ = D206BFA712CCC8C000FE7887 /* PBXTextBookmark */;
+			D206BFA812CCC8CF00FE7887 /* PBXTextBookmark */ = D206BFA812CCC8CF00FE7887 /* PBXTextBookmark */;
+			D206BFA912CCC8DD00FE7887 /* PBXTextBookmark */ = D206BFA912CCC8DD00FE7887 /* PBXTextBookmark */;
 		};
 		sourceControlManager = D206BF5812CCAF6900FE7887 /* Source Control */;
 		userBuildSettings = {
@@ -62,7 +65,7 @@
 	A52149BA12CCB4830001EB10 /* ControlEdicao.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1559, 760}}";
-			sepNavSelRange = "{170, 0}";
+			sepNavSelRange = "{167, 0}";
 			sepNavVisRange = "{0, 207}";
 		};
 	};
@@ -157,6 +160,36 @@
 		name = "ControlEdicao.m: 11";
 		rLen = 0;
 		rLoc = 170;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	D206BFA712CCC8C000FE7887 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A52149BA12CCB4830001EB10 /* ControlEdicao.m */;
+		name = "ControlEdicao.m: 15";
+		rLen = 0;
+		rLoc = 207;
+		rType = 0;
+		vrLen = 207;
+		vrLoc = 0;
+	};
+	D206BFA812CCC8CF00FE7887 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A52149BA12CCB4830001EB10 /* ControlEdicao.m */;
+		name = "ControlEdicao.m: 11";
+		rLen = 0;
+		rLoc = 170;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	D206BFA912CCC8DD00FE7887 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A52149BA12CCB4830001EB10 /* ControlEdicao.m */;
+		name = "ControlEdicao.m: 11";
+		rLen = 0;
+		rLoc = 167;
 		rType = 0;
 		vrLen = 207;
 		vrLoc = 0;
