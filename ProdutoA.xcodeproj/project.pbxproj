@@ -21,6 +21,7 @@
 		A521498C12CCB1680001EB10 /* ControllerBase.m in Sources */ = {isa = PBXBuildFile; fileRef = A521498B12CCB1680001EB10 /* ControllerBase.m */; };
 		A52149BB12CCB4830001EB10 /* ControlEdicao.m in Sources */ = {isa = PBXBuildFile; fileRef = A52149BA12CCB4830001EB10 /* ControlEdicao.m */; };
 		A52149CF12CCEA8D0001EB10 /* ClassBranch.m in Sources */ = {isa = PBXBuildFile; fileRef = A52149CE12CCEA8D0001EB10 /* ClassBranch.m */; };
+		D206BFC212CCEBEC00FE7887 /* BranchAlessandro.m in Sources */ = {isa = PBXBuildFile; fileRef = D206BFC112CCEBEC00FE7887 /* BranchAlessandro.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,8 @@
 		A52149BA12CCB4830001EB10 /* ControlEdicao.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControlEdicao.m; sourceTree = "<group>"; };
 		A52149CD12CCEA8D0001EB10 /* ClassBranch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassBranch.h; sourceTree = "<group>"; };
 		A52149CE12CCEA8D0001EB10 /* ClassBranch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassBranch.m; sourceTree = "<group>"; };
+		D206BFC012CCEBEC00FE7887 /* BranchAlessandro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BranchAlessandro.h; sourceTree = "<group>"; };
+		D206BFC112CCEBEC00FE7887 /* BranchAlessandro.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BranchAlessandro.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +102,8 @@
 				A52149BA12CCB4830001EB10 /* ControlEdicao.m */,
 				A52149CD12CCEA8D0001EB10 /* ClassBranch.h */,
 				A52149CE12CCEA8D0001EB10 /* ClassBranch.m */,
+				D206BFC012CCEBEC00FE7887 /* BranchAlessandro.h */,
+				D206BFC112CCEBEC00FE7887 /* BranchAlessandro.m */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -204,6 +209,7 @@
 				A521498C12CCB1680001EB10 /* ControllerBase.m in Sources */,
 				A52149BB12CCB4830001EB10 /* ControlEdicao.m in Sources */,
 				A52149CF12CCEA8D0001EB10 /* ClassBranch.m in Sources */,
+				D206BFC212CCEBEC00FE7887 /* BranchAlessandro.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
