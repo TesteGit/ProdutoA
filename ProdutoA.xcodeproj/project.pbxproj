@@ -19,6 +19,7 @@
 		28D3F202112F7DC200FD0661 /* ProdutoA.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 28D3F201112F7DC200FD0661 /* ProdutoA.xcdatamodeld */; };
 		A521498712CCB02D0001EB10 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = A521498612CCB02D0001EB10 /* Reachability.m */; };
 		A521498C12CCB1680001EB10 /* ControllerBase.m in Sources */ = {isa = PBXBuildFile; fileRef = A521498B12CCB1680001EB10 /* ControllerBase.m */; };
+		A52149BB12CCB4830001EB10 /* ControlEdicao.m in Sources */ = {isa = PBXBuildFile; fileRef = A52149BA12CCB4830001EB10 /* ControlEdicao.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,8 @@
 		A521498612CCB02D0001EB10 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
 		A521498A12CCB1680001EB10 /* ControllerBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControllerBase.h; sourceTree = "<group>"; };
 		A521498B12CCB1680001EB10 /* ControllerBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControllerBase.m; sourceTree = "<group>"; };
+		A52149B912CCB4830001EB10 /* ControlEdicao.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControlEdicao.h; sourceTree = "<group>"; };
+		A52149BA12CCB4830001EB10 /* ControlEdicao.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControlEdicao.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				A521498612CCB02D0001EB10 /* Reachability.m */,
 				A521498A12CCB1680001EB10 /* ControllerBase.h */,
 				A521498B12CCB1680001EB10 /* ControllerBase.m */,
+				A52149B912CCB4830001EB10 /* ControlEdicao.h */,
+				A52149BA12CCB4830001EB10 /* ControlEdicao.m */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -192,6 +197,7 @@
 				28D3F202112F7DC200FD0661 /* ProdutoA.xcdatamodeld in Sources */,
 				A521498712CCB02D0001EB10 /* Reachability.m in Sources */,
 				A521498C12CCB1680001EB10 /* ControllerBase.m in Sources */,
+				A52149BB12CCB4830001EB10 /* ControlEdicao.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
